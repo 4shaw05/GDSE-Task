@@ -14,12 +14,12 @@ body {
   width: 542px;
   font-size: xx-large;
   font-family: cursive;
-  position: absolute; /* Absolute positioning */
-  top: 15px; /* Align it to the top */
-  left: 766px; /* Center it horizontally */
-  transform: translateX(-50%); /* Adjust for centering */
-  padding: 10px 20px; /* Padding around the text */
-  border-radius: 2px; /* Rounded corners */
+  position: absolute; 
+  top: 15px; 
+  left: 766px; 
+  transform: translateX(-50%); 
+  padding: 10px 20px; 
+  border-radius: 2px; 
   z-index: 10;
 }
 .name {
@@ -30,12 +30,12 @@ body {
   width: 542px;
   font-size: 56px;
   font-family: cursive;
-  position: absolute; /* Absolute positioning */
-  top: 266px; /* Align it to the top */
-  left: 766px; /* Center it horizontally */
-  transform: translateX(-50%); /* Adjust for centering */
-  padding: 10px 20px; /* Padding around the text */
-  border-radius: 2px; /* Rounded corners */
+  position: absolute; 
+  top: 266px; 
+  left: 766px; 
+  transform: translateX(-50%); 
+  padding: 10px 20px; 
+  border-radius: 2px; 
   text-shadow: 0 0 5px rgb(122, 122, 122), 0 0 10px rgb(136, 136, 136),
     0 0 20px rgb(136, 136, 136), 0 0 30px rgb(136, 136, 136),
     0 0 40px rgb(136, 136, 136), 0 0 50px rgb(136, 136, 136),
